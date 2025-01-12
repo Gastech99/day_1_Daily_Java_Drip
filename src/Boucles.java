@@ -13,5 +13,14 @@ public class Boucles {
             System.out.println(j);
             j++;
         }
+
+
+        System.out.println("*************************************");
+        System.out.println("Résultat avec la boucle do...while");
+        int k = 0;
+        do {
+            System.out.println(k);
+            k++;
+        }while (k < 5);
     }
 }
