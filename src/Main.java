@@ -54,5 +54,6 @@ public class Main {
         a = keyboard2.nextInt();
         System.out.println("La valeur de a = "+a);
         keyboard2.close();
+
     }
 }
